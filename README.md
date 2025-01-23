@@ -9,6 +9,7 @@ This guide will walk you through the process of setting up an **Nginx** web serv
 ---
 
 ## 🖊️ Prerequisites
+![Image](https://github.com/user-attachments/assets/21cb2614-4b0e-40f4-b979-80632e10b2a3)
 
 Ensure you have the following:
 1. ✅ An **AWS account** and access to the **AWS Management Console**.
